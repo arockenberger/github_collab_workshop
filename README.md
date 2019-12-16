@@ -16,7 +16,7 @@ You are welcome to contribute! This call goes out especially to the participants
 
 |Date|Place|Institution|Language|
 |---|---|---|---|
-|2019-10-09|Oslo|University of Oslo|English|
+|2020-01-17|Oslo|University of Oslo|English|
 |2019-09-11|Oslo|University of Oslo|English|
 
 
@@ -33,12 +33,12 @@ You are welcome to contribute! This call goes out especially to the participants
 
 ## Development Plan
 
-- Overhaul lesson, especially cutting out "excercises" in the middle part (collaboration) to make more room for `Fork`, `Issues`, and trouble shooting, especially for the missing `revert`-function on GitHub
-- Find a better / different example than the Guacamole recipe. To-Do-List for a project?
-- Translate lesson into Norwegian and German
-- Create a reference for technical terms (fork from Software Carpentry Git lesson?)
-- Create a further reading list with links to GitHub handbook, git documentation, markdown cheat sheet etc.
-- Create a little add-on with info on how to setup local versioning either with git via command line, with GitHub Desktop and with integrated git in editors like Visual Studio and Atom etc.
-- Create another little add-on with info about smartphone and tablet apps for integrating GitHub (like CodeHub)
-- Show that GitHub repositories can be assigned a DOI via Zenodo.org – especially relevent for finished projects
-- Add info on Licences, especially CC-Licences
+- [ ] Overhaul lesson, especially cutting out "excercises" in the middle part (collaboration) to make more room for `Fork`, `Issues`, and trouble shooting, especially for the missing `revert`-function on GitHub
+- [x] Find a better / different example than the Guacamole recipe. To-Do-List for a project?
+- [ ] Translate lesson into Norwegian and German
+- [ ] Create a reference for technical terms (fork from Software Carpentry Git lesson?)
+- [ ] Create a further reading list with links to GitHub handbook, git documentation, markdown cheat sheet etc.
+- [ ] Create a little add-on with info on how to setup local versioning either with git via command line, with GitHub Desktop and with integrated git in editors like Visual Studio and Atom etc.
+- [ ] Create another little add-on with info about smartphone and tablet apps for integrating GitHub (like CodeHub)
+- [ ] Show that GitHub repositories can be assigned a DOI via Zenodo.org – especially relevent for finished projects
+- [ ] Add info on Licences, especially CC-Licences
