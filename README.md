@@ -6,7 +6,7 @@ Material originally developed by [@lexnederbragt](https://github.com/lexnederbra
 
 I have taught this workshop a couple of times now and it has become clear what works well and what could be improved. It is still – and will be for some time – a work in progress.
 
-For now, all that is here is an [outline of the workshop](workshop_outline.md). Both Lex and I have the ambition to develop this lesson into a fullblown one, with screenshots etc.
+For now, all that is here is an [outline of the workshop](workshop_outline_english.md). Both Lex and I have the ambition to develop this lesson into a fullblown one, with screenshots etc.
 
 You are welcome to contribute! This call goes out especially to the participants of my workshops – contributing to repositories on GitHub helps you stay 'on track' and getting comfortable working on GitHub. It's fun, too! :)
 
