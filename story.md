@@ -21,7 +21,7 @@ The project is in its early stage: The members collect all kinds of historical r
 ## The Recipe
 
 * Scrambled eggs (Æggerøre)
-* Taken from the Norwegian cookbook "Lærebog i de forskjellige Grene af Huusholdningen" (Manual for the different tasks of the household), by Hanna Winsnes, Christiania 1845 - available online and open access via [Bokselskap.no](https://www.bokselskap.no/boker/kogebog/tittelside) and as a [digital copy[(https://urn.nb.no/URN:NBN:no-nb_digibok_2009111210001) from the National Library of Norway
+* Taken from the Norwegian cookbook "Lærebog i de forskjellige Grene af Huusholdningen" (Manual for the different tasks of the household), by Hanna Winsnes, Christiania 1845 - available online and open access via [Bokselskap.no](https://www.bokselskap.no/boker/kogebog/tittelside) and as a [digital copy](https://urn.nb.no/URN:NBN:no-nb_digibok_2009111210001) from the National Library of Norway
 * Full text of the recipe (https://www.bokselskap.no/boker/kogebog/sild)
 
 ### Original wording
